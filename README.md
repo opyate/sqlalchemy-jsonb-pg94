@@ -9,4 +9,4 @@ Re-create the exact same instance with:
     -H 'Content-Type: application/json' \
     -d '{"eggs": 42, "obj": {"beans": "with brandy!", "ham": 43}, "spam": "but I prefer bacon!"}'
 
-The POST handler should do a JSONB equality check in the ```filter_by```, but throws an error.
+The POST handler should do a JSONB equality check in the ```filter_by```.
