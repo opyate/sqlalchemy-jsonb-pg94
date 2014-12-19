@@ -1,5 +1,3 @@
-# SQLAlchemy commit hash 182553b7409cfa6673483d03f29bc4c462336577 at time of writing
--e git+https://github.com/zzzeek/sqlalchemy@master#egg=SQLAlchemy
 flask-restful
 flask-sqlalchemy
 psycopg2
