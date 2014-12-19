@@ -1,3 +1,10 @@
+# Requirements
+
+[Fig](http://www.fig.sh/) and Docker.
+
+If not, just ```python app.py``` with a PostgresQL database (you might need to modify the connection string in ```app.py```).
+
+# Steps
 
 Create the test instance in the database with:
 
