@@ -6,6 +6,8 @@ If not, just ```python app.py``` with a PostgresQL database (you might need to m
 
 # Steps
 
+Run with ```fig up``` or ```python app.py```.
+
 Create the test instance in the database with:
 
     curl -XPUT http://0.0.0.0:5000/
